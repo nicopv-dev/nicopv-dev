@@ -5,7 +5,7 @@
 <h2 align="center">About me 😇</h2>
 
 - ⚡I'm from Chile
-- :raising_hand: I am an COMPUTER ENGINEER student, I'm Frontend and Backend developer since 2020.
+- :raising_hand: I am an COMPUTER ENGINEER, I'm Frontend and Backend developer since 2020.
 - :muscle: I am currently helping others to get into tech too by creating content and open source projects
 - :speech_balloon: Ask me about anything related to accessibility. I am happy to help
 
